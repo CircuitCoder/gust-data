@@ -2,6 +2,8 @@
 author: 喵喵
 date: 2020-9-13
 desc: 从自我介绍开始吧~
+status: ongoing
+pin: true
 ---
 
 # 喵喵
