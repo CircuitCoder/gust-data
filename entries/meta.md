@@ -12,15 +12,15 @@ pinned: true
 
 ## 小地图
 
-- [meta](/entry/meta): `Segmentation fault (core dumped)`
-- [intro](/entry/intro): 本站的简介
-- [about](/entry/about): 喵喵的简介，并且包含到其他个人数据日志性质的条目的链接
+- [#meta](/entry/meta): `Segmentation fault (core dumped)`
+- [#intro](/entry/intro): 本站的简介
+- [#about](/entry/about): 喵喵的简介，并且包含到其他个人数据日志性质的条目的链接
 
-## Bug
+## Known bugs
 
 - 你可能已经注意到了：条目之间的链接，过渡效果少了一半（退出）。推测这是因为新内容把旧内容挤下去了。
 - 移动端/响应式
 
 更多的 Bug 可以查看 [GitHub Issues](https://github.com/CircuitCoder/gust/issues)。
 
-对于新功能的记录位于 [todo](/entry/todo)
+对于新功能的记录位于 [#todo](/entry/todo)
